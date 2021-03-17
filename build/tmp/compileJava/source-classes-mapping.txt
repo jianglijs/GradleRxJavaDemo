@@ -1,0 +1,16 @@
+com/gradle/tutorial/FizzBuzzProcessor.java
+ com.gradle.tutorial.FizzBuzzProcessor
+ com.gradle.tutorial.FizzBuzzProcessor$1
+ com.gradle.tutorial.FizzBuzzProcessor$2
+ com.gradle.tutorial.FizzBuzzProcessor$RetryWhenHandler
+ com.gradle.tutorial.FizzBuzzProcessor$RetryWhenHandler$1
+ com.gradle.tutorial.FizzBuzzProcessor$RetryWhenHandler$2
+ com.gradle.tutorial.FizzBuzzProcessor$RetryWhenHandler$ThrowableWrapper
+com/gradle/tutorial/SomeArge.java
+ com.gradle.tutorial.SomeArge
+com/gradle/tutorial/Just.java
+ com.gradle.tutorial.Just
+ com.gradle.tutorial.Just$1
+ com.gradle.tutorial.Just$2
+ com.gradle.tutorial.Just$3
+ com.gradle.tutorial.Just$3$1
